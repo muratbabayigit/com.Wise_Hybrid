@@ -3,5 +3,7 @@ public class OrtakClass {
         System.out.println("buradan bir babayigit geçti");
         System.out.println("babayigit gecip gitse de unutulmaz");
         System.out.println("conflict yukleniyor");
+        System.out.println("ortalık karışacak vaziyet alın");
+
     }
 }
